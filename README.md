@@ -4,7 +4,7 @@
 
 <a href="https://twitter.com/rebootstudio_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rebootstudio\_</a>
 
-# App Script examples
+# Apps Script examples
 
 This project contains a js file for each App Script example. We have written a full article describing how to get started step by step. You can check it out [here](https://reboot.studio/blog/es/como-usar-google-apps-script-para-automatizar-procesos/)
 
